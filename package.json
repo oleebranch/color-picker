@@ -1,0 +1,22 @@
+{
+  "name": "color-picker",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleebranch/color-picker.git"
+  },
+  "keywords": [
+    "color-picker"
+  ],
+  "author": "Olive Nakiyemba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleebranch/color-picker/issues"
+  },
+  "homepage": "https://github.com/oleebranch/color-picker#readme"
+}
